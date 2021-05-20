@@ -10,4 +10,4 @@ Requests Version 2.24.0<br/>
 Pandas Version 1.1.3<br/>
 Firefox Webdrive (geckodriver Version 0.29.1)<br/>
 
-EDITOR: Juputer Notebook
+EDITOR: Jupyter Notebook
