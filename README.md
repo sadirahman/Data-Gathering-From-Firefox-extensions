@@ -1,6 +1,6 @@
 # Data-Gathering-From-Firefox-extensions
 
-Instruction of package version for running the python script
+Instruction of package version for running the python script:
 Python Version 3.6
 Anaconda3
 Beautifulsoup4 Version 4.9.3
